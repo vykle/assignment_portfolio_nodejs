@@ -44,7 +44,7 @@ body {
 }
 .about-section {
     margin: 5px;
-    height: 345px;
+    height: 330px;
 }
 .about-section .main {
     display: flex; 
@@ -82,59 +82,16 @@ body {
     display: table;
     clear: both;
 }
-.skills-section {
-    margin: 5px;
-    color: snow;
-    height: 320px;
-}
-.skills-section .qualification {
-    display: flex;
-    height: 320px;
-}
-.qualification .skills {
-    background-color: rgb(31,34,43);
-    height: 320px;
-    color: snow;
-    width: 50%;
-    text-align: left;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-.skills h2 {
-    font-size: 25px;
-    padding-left: 50px;
-}
-.skills p {
-    padding-left: 50px;
-    font-size: 20px;
-    margin-top: 80px;
-}
-.qualification .education {
-    background-color: rgb(169, 169, 169);
-    height: 320px;
-    color: rgb(31,34,43);
-    width: 50%;
-    text-align: left;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-.education h2 {
-    font-size: 25px;
-    padding-left: 50px;
-}
-.education p {
-    padding-left: 50px;
-    font-size: 20px;
-    margin-top: 80px;
-}
 .projects-section {
     margin: 5px;
-    height: 380px;
+    height: 1000px;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .projects-section .projects{
     background-color: rgb(169, 169, 169);
     color: rgb(31,34,43);
-    height: 380px;
+    height: 1000px;
 }
 .projects h2{
     font-size: 25px;
@@ -147,14 +104,14 @@ body {
 }
 .contact-section {
     margin: 5px;
-    height: 400px;
+    height: 300px;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .contact-section .contact{
     background-color: rgb(31,34,43);
     color: snow;
-    height: 400px;
+    height: 300px;
 }
 .contact h2{
     font-size: 25px;
